@@ -1,0 +1,6 @@
+# Begin /etc/profile
+for i in $(locale); do
+ unset ${i%=*}
+done
+export LANG=C.UTF-8
+# End /etc/profile

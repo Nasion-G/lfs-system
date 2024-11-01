@@ -1,0 +1,6 @@
+NAME="Linux From Scratch"
+VERSION="r12.2-19"
+ID=lfs
+PRETTY_NAME="Linux From Scratch r12.2-19"
+VERSION_CODENAME="Nasion Golloshi"
+HOME_URL="https://www.linuxfromscratch.org/lfs/"
